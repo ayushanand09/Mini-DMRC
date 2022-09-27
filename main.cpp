@@ -218,10 +218,7 @@ void intro(){
     cout<<endl; 
     cout<<"\t\t-----------------------------"<<endl;
     cout<<"\t\t|THIS PROJECT IS CREATED BY:|"<<endl;
-    cout<<"\t\t|PRANAY YADAV - 9920103031  |"<<endl;
-    cout<<"\t\t|NALIN BANGA - 9920103034   |"<<endl;
-    cout<<"\t\t|AYUSH ANAND - 9920103043   |"<<endl;
-    cout<<"\t\t|AYUSHI BAWARI - 9920103216 |"<<endl;
+    cout<<"\t\t\t|AYUSH ANAND -    |"<<endl;
     cout<<"\t\t----------------------------"<<endl;
 
     cout<<"**************************************************************************************";
